@@ -1,8 +1,6 @@
 ## Hi, people! 👋
 
 - 🔭 Hoje eu trabalho com RPA (Robot Process Automation).
-- 🌱 No momento estudando Django.
-- 👯 Contate-me por e-mail: victorhugoos@live.com
 
 <!-- Stats do meu perfil -->
 <div>

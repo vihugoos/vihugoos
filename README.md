@@ -1,6 +1,8 @@
 ## Hello, world! 🙆‍♂️
 
-- Sou o Victor, um entusiasta e apaixonado por tecnologias. Amo estar constantemente aprendendo coisas novas, isso me cativa, me anima a sempre buscar ir além. 
+- Sou o Victor, um entusiasta e apaixonado por tecnologias. Amo estar constantemente aprendendo coisas novas, isso me cativa, me anima a sempre buscar explorar cada vez mais esse maravilhoso mundo da tecnologia. 
+
+## 
 
 <!-- Stats do meu perfil -->
 <div>
@@ -18,6 +20,3 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-##
-

@@ -1,7 +1,7 @@
 ## Hello, world! 🙆‍♂️
 
 - <strong> 
-  Sou o Victor, um entusiasta e apaixonado por tecnologias. Amo estar constantemente aprendendo coisas novas, isso me cativa, me anima a sempre buscar explorar cada vez mais esse maravilhoso mundo da tecnologia. 
+  Sou o Victor, um entusiasta e apaixonado por tecnologia. Amo estar constantemente aprendendo coisas novas, isso me cativa, me anima a sempre buscar explorar cada vez mais esse maravilhoso mundo da tecnologia. 
   </strong>
 
 ## 

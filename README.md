@@ -1,6 +1,7 @@
 ## Hello, world! 🙆‍♂️
 
-- <strong> Sou um entusiasta e <i> apaixonado </i> por tecnologia. Amo estar constantemente aprendendo coisas novas, isso me cativa, me anima a sempre buscar explorar cada vez mais esse maravilhoso mundo da tecnologia. </strong> 
+
+- <strong> I am an enthusiast and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 
 ## 
 

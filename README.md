@@ -1,20 +1,22 @@
 ## Hello, world! 🙆‍♂️
 
-
 - <strong> I am an enthusiast and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 
 ## 
 
-<!-- Stats do meu perfil -->
+<!-- Stats of profile -->
 <div>
   <a href="https://github.com/vihugoos">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vihugoos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &nbsp; 
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vihugoos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    &nbsp; 
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+
+## 🛠 Tech Stack Experience's. 
  
 <!-- Skills -->
-<div style="display: inline_block"> <br>
+<div style="display: inline_block"> 
   <img align="center" alt="Icon-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

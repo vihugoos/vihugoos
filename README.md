@@ -1,4 +1,4 @@
-## Hey, Guys! 🙆‍♂️
+## Hey, Guys! :no_good:
 
 - <strong> I am an enthusiast and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 

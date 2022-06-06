@@ -46,6 +46,10 @@
   <a href="https://www.djangoproject.com/">
     <img align="center" alt="Icon-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   </a>
+   <!-- Icon React -->
+  <a href="https://reactjs.org/"> 
+     <img align="center" alt="Icon-React" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </a>
   <!-- Icon HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="center" alt="Icon-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -61,10 +65,6 @@
   <!-- Icon Tailwindcss -->
   <a href="https://tailwindcss.com/">
     <img align="center" alt="Icon-Tailwindcss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  </a>
-  <!-- Icon React -->
-  <a href="https://reactjs.org/"> 
-     <img align="center" alt="Icon-React" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <!-- Icon Grafana -->
   <a href="https://grafana.com/">

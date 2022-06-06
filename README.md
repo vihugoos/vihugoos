@@ -54,13 +54,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="center" alt="Icon-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <!-- Icon Tailwindcss -->
-  <a href="https://tailwindcss.com/">
-    <img align="center" alt="Icon-Tailwindcss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  </a>
   <!-- Icon Bootstrap -->
   <a href="https://getbootstrap.com/">
     <img align="center" alt="Icon-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  </a>
+  <!-- Icon Tailwindcss -->
+  <a href="https://tailwindcss.com/">
+    <img align="center" alt="Icon-Tailwindcss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   </a>
   <!-- Icon React -->
   <a href="https://reactjs.org/"> 

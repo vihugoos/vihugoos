@@ -19,7 +19,7 @@
 <div style="display: inline_block">
   
   <!-- Icon Git -->
-  <a href="https://git-scm.com/" target="_black"> 
+  <a href="https://git-scm.com/" target="_blank"> 
     <img align="center" alt="Icon-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </a>
   <!-- Icon Python --> 

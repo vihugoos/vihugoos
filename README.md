@@ -20,7 +20,7 @@
   
   <!-- Icon Git -->
   <a href="https://git-scm.com/"> 
-    <img align="center" alt="Icon-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+    <img align="center" alt="Icon-Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </a>
   <!-- Icon Python --> 
   <a href="https://www.python.org/"> 

@@ -18,8 +18,8 @@
 <!-- Tech Stack Experience's --> 
 <div style="display: inline_block">
   
-  <a onclick='window.open("http://www.foracure.org.au");return false;' href="#" >
-    <img align="center" alt="Icon-Git" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <a onclick="window.open(this.href,'_blank');return false;" href="http://www.foracure.org.au">
+    Some Other Site
   </a>
   
   <!-- Icon Git -->

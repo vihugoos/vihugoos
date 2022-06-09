@@ -34,10 +34,6 @@
   <a href="https://www.typescriptlang.org/">
     <img align="center" alt="Icon-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <a/>
-  <!-- Icon Java -->
-  <a href="https://www.java.com/">
-    <img align="center" alt="Icon-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a>
   <!-- Icon Nodejs-->
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Icon-Nodejs" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">

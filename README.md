@@ -78,6 +78,10 @@
   <a href="https://jestjs.io/pt-BR/"> 
     <img align="center" alt="Icon-Jest" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
+  <!-- Icon Postgresql -->
+  <a href="https://jestjs.io/pt-BR/"> 
+    <img align="center" alt="Icon-Jest" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  </a>
   <!-- Icon MySQL -->
   <a href="https://www.mysql.com/">
     <img align="center" alt="Icon-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">

@@ -18,17 +18,8 @@
 <!-- Tech Stack Experience's --> 
 <div style="display: inline_block">
   
-  <a onclick="window.open(this.href,'_blank');return false;" href="http://www.foracure.org.au">
-    Some Other Site
-  </a>
-  
   <!-- Icon Git -->
-  <a href="https://git-scm.com/" target="_blank"> 
-     
-  </a>
-  
-  <!-- Icon Git -->
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://git-scm.com/"> 
     <img align="center" alt="Icon-Git" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </a>
   
@@ -87,7 +78,7 @@
   </a>
     
   <!-- Icon Prisma -->
-  <a href="https://www.mysql.com/">
+  <a href="https://www.prisma.io/">
     <img align="center" alt="Icon-Prisma" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
   </a>
     
@@ -102,7 +93,7 @@
   </a>
     
   <!-- Icon Postgresql -->
-  <a href="https://jestjs.io/pt-BR/"> 
+  <a href="https://www.postgresql.org/"> 
     <img align="center" alt="Icon-Jest" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   </a>
   &nbsp; 

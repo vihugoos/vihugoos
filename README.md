@@ -20,11 +20,11 @@
   
   <!-- Icon Git -->
   <a href="https://git-scm.com/"> 
-    <img align="center" alt="Icon-Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+    <img align="center" alt="Icon-Git" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </a>
   <!-- Icon Python --> 
   <a href="https://www.python.org/"> 
-    <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+    <img align="center" alt="Icon-Python" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   </a>
   <!-- Icon Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 

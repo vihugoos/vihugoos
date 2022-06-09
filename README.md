@@ -66,6 +66,10 @@
   <a href="https://grafana.com/">
     <img align="center" alt="Icon-Grafana" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   </a>
+  <!-- Icon Prisma -->
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="Icon-Prisma" height="30" src="https://media.graphassets.com/resize=width:700/output=format:png/XNUQtYDjTzaeGlgQmyiW">
+  </a> 
   <!-- Icon Selenium -->
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
@@ -78,6 +82,7 @@
   <a href="https://jestjs.io/pt-BR/"> 
     <img align="center" alt="Icon-Jest" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   </a>
+  &nbsp; 
   <!-- Icon MySQL -->
   <a href="https://www.mysql.com/">
     <img align="center" alt="Icon-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">

@@ -36,7 +36,7 @@
   <a/>
   <!-- Icon Nodejs-->
   <a href="https://nodejs.org/en/">
-    <img align="center" alt="Icon-Nodejs" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Icon-Nodejs" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
   <!-- Icon Django -->
   <a href="https://www.djangoproject.com/">

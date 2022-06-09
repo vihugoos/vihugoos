@@ -6,7 +6,7 @@
 
 <!-- Stats of profile -->
 <div>
-  <a href="https://github.com/vihugoos" target="_blank">
+  <a href="https://github.com/vihugoos">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vihugoos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     &nbsp; 
     <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=7&theme=dracula"/>
@@ -19,7 +19,7 @@
 <div style="display: inline_block">
   
   <!-- Icon Git -->
-  <a href="https://git-scm.com/"> 
+  <a href="https://git-scm.com/" target="_blank"> 
     <img align="center" alt="Icon-Git" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
   </a>
   

@@ -68,7 +68,7 @@
   </a>
   <!-- Icon Prisma -->
   <a href="https://www.mysql.com/">
-    <img align="center" alt="Icon-Prisma" height="30" src="https://media.graphassets.com/resize=width:700/output=format:png/XNUQtYDjTzaeGlgQmyiW">
+    <img align="center" alt="Icon-Prisma" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
   </a> 
   <!-- Icon Selenium -->
   <a href="https://www.selenium.dev/">

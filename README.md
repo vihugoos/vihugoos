@@ -97,14 +97,14 @@
     <img align="center" alt="Icon-Jest" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
     
+  <!-- Icon MySQL -->
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="Icon-MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  </a>
+    
   <!-- Icon Postgresql -->
   <a href="https://www.postgresql.org/"> 
     <img align="center" alt="Icon-Jest" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   </a>
   &nbsp; 
-    
-  <!-- Icon MySQL -->
-  <a href="https://www.mysql.com/">
-    <img align="center" alt="Icon-MySQL" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  </a>
 </div>

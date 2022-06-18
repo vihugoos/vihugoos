@@ -68,7 +68,7 @@
   </a>
   &nbsp; 
   <!-- Icon Sass -->
-  <a href="https://getbootstrap.com/">
+  <a href="https://sass-lang.com/">
     <img align="center" alt="Icon-Sass" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
   
@@ -81,12 +81,7 @@
   <a href="https://grafana.com/">
     <img align="center" alt="Icon-Grafana" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   </a>
-    
-  <!-- Icon Prisma -->
-  <a href="https://www.prisma.io/">
-    <img align="center" alt="Icon-Prisma" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
-  </a>
-    
+  
   <!-- Icon Selenium -->
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
@@ -95,6 +90,11 @@
   <!-- Icon Jest -->
   <a href="https://jestjs.io/pt-BR/"> 
     <img align="center" alt="Icon-Jest" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  </a>
+  
+  <!-- Icon Prisma -->
+  <a href="https://www.prisma.io/">
+    <img align="center" alt="Icon-Prisma" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
   </a>
     
   <!-- Icon MySQL -->

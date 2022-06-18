@@ -69,7 +69,7 @@
   &nbsp; 
   <!-- Icon Sass -->
   <a href="https://getbootstrap.com/">
-    <img align="center" alt="Icon-Sass" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="Icon-Sass" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
   
   <!-- Icon Tailwindcss -->

@@ -8,9 +8,9 @@
 <!-- Stats of profile -->
 <div>
   <a href="https://github.com/vihugoos">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vihugoos&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+    <img height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=vihugoos&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     &nbsp;
-    <img height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
 </div>
 

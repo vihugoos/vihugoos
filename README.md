@@ -2,16 +2,18 @@
 
 - <strong> I am an enthusiast and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 
+
 ## 
 
 <!-- Stats of profile -->
-<div>
+<div align="center">
   <a href="https://github.com/vihugoos">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vihugoos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    &nbsp; 
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=8&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vihugoos&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+    &nbsp;
+    <img height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
 </div>
+
 
 ## 🛠 Tech Stack Experience's. 
  

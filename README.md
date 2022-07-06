@@ -6,7 +6,7 @@
 ## 
 
 <!-- Stats of profile -->
-<div>
+<div align="center">
   <a href="https://github.com/vihugoos">
     <img height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=vihugoos&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     &nbsp;

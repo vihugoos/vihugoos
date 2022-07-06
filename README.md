@@ -2,8 +2,6 @@
 
 - <strong> I am an enthusiast and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 
-![7IsD](https://user-images.githubusercontent.com/44311634/177646017-ee39a099-7740-4d37-b876-c31b8aee04b4.gif)
-
 ## 
 
 <!-- Stats of profile -->

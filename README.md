@@ -97,7 +97,7 @@
    
   <!-- Icon GraphQL-->
   <a href="https://graphql.org/">
-    <img align="center" alt="Icon-GraphQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+    <img align="center" alt="Icon-GraphQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   </a>
   
   <!-- Icon Jest -->

@@ -79,7 +79,7 @@
     <img align="center" alt="Icon-Bootstrap" height="55" src="https://user-images.githubusercontent.com/44311634/177696903-ddc7f065-9793-4117-ba09-73d1fb06bce6.png">
   </a>
   
-  <!-- Icon Sass -->
+  <!-- Icon SASS -->
   <a href="https://sass-lang.com/">
     <img align="center" alt="Icon-Sass" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
@@ -94,7 +94,12 @@
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   </a>
-    
+   
+  <!-- Icon GraphQL-->
+  <a href="https://nodejs.org/en/">
+    <img align="center" alt="Icon-GraphQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  </a>
+  
   <!-- Icon Jest -->
   <a href="https://jestjs.io/pt-BR/"> 
     <img align="center" alt="Icon-Jest" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">

@@ -68,6 +68,11 @@
   <a href="https://getbootstrap.com/">
     <img align="center" alt="Icon-Bootstrap" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   </a>
+  
+  <!-- Icon Tailwindcss -->
+  <a href="https://tailwindcss.com/">
+    <img align="center" alt="Icon-Tailwindcss" width="38" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  </a>
 
   <!-- Icon Materialize CSS -->
   <a href="https://materializecss.com/">
@@ -79,10 +84,6 @@
     <img align="center" alt="Icon-Sass" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
   
-  <!-- Icon Tailwindcss -->
-  <a href="https://tailwindcss.com/">
-    <img align="center" alt="Icon-Tailwindcss" width="38" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  </a>
     
   <!-- Icon Grafana -->
   <a href="https://grafana.com/">

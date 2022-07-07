@@ -67,7 +67,12 @@
   <a href="https://getbootstrap.com/">
     <img align="center" alt="Icon-Bootstrap" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   </a>
-  &nbsp; 
+
+  <!-- Icon Materialize CSS -->
+  <a href="https://materializecss.com/">
+    <img align="center" alt="Icon-Bootstrap" height="55" src="https://user-images.githubusercontent.com/44311634/177696903-ddc7f065-9793-4117-ba09-73d1fb06bce6.png">
+  </a>
+  
   <!-- Icon Sass -->
   <a href="https://sass-lang.com/">
     <img align="center" alt="Icon-Sass" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">

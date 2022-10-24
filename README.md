@@ -14,7 +14,7 @@
 </div>
 
 
-## 🛠 Tech Stack Experience's. 
+## 🛠 Tech Stack Skills
  
 <!-- Tech Stack Experience's --> 
 <div style="display: inline_block">

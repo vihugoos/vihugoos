@@ -116,7 +116,7 @@
   
   <!-- Icon Linux -->
   <a href=""> 
-    <img align="center" alt="Icon-Jest" width="37" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Icon-Jest" width="37" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
   &nbsp; 
 </div>

@@ -91,7 +91,7 @@
    
   <!-- Icon GraphQL-->
   <a href="https://graphql.org/">
-    <img align="center" alt="Icon-GraphQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+    <img align="center" alt="Icon-GraphQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   </a>
   
   <!-- Icon Jest -->
@@ -106,17 +106,17 @@
     
   <!-- Icon MySQL -->
   <a href="https://www.mysql.com/">
-    <img align="center" alt="Icon-MySQL" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Icon-MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
     
   <!-- Icon Postgresql -->
   <a href="https://www.postgresql.org/"> 
-    <img align="center" alt="Icon-Jest" width="36" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Icon-Jest" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   </a>
   
   <!-- Icon Linux -->
   <a href=""> 
-    <img align="center" alt="Icon-Jest" width="37" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Icon-Jest" width="37" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
   &nbsp; 
 </div>

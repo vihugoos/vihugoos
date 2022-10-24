@@ -73,11 +73,6 @@
   <a href="https://tailwindcss.com/">
     <img align="center" alt="Icon-Tailwindcss" width="38" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   </a>
-
-  <!-- Icon Materialize CSS -->
-  <a href="https://materializecss.com/">
-    <img align="center" alt="Icon-Bootstrap" height="55" src="https://user-images.githubusercontent.com/44311634/177696903-ddc7f065-9793-4117-ba09-73d1fb06bce6.png">
-  </a>
   
    <!-- Icon Docker -->
   <a href="https://www.docker.com/">
@@ -111,12 +106,17 @@
     
   <!-- Icon MySQL -->
   <a href="https://www.mysql.com/">
-    <img align="center" alt="Icon-MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Icon-MySQL" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
     
   <!-- Icon Postgresql -->
   <a href="https://www.postgresql.org/"> 
-    <img align="center" alt="Icon-Jest" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Icon-Jest" width="36" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  </a>
+  
+  <!-- Icon Linux -->
+  <a href=""> 
+    <img align="center" alt="Icon-Jest" width="37" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
   &nbsp; 
 </div>

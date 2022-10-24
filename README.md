@@ -95,7 +95,7 @@
   </a>
   
   <!-- Icon Jest -->
-  <a href="https://jestjs.io/pt-BR/"> 
+  <a href="https://jestjs.io/"> 
     <img align="center" alt="Icon-Jest" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
   

@@ -115,7 +115,7 @@
   </a>
   
   <!-- Icon Linux -->
-  <a href=""> 
+  <a href="https://github.com/torvalds/linux"> 
     <img align="center" alt="Icon-Jest" width="37" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
   &nbsp; 

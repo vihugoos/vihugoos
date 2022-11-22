@@ -69,21 +69,21 @@
     <img align="center" alt="Icon-Bootstrap" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   </a>
   
-  <!-- Icon Tailwindcss -->
-  <a href="https://tailwindcss.com/">
-    <img align="center" alt="Icon-Tailwindcss" width="38" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  </a>
-  
    <!-- Icon Docker -->
   <a href="https://www.docker.com/">
     <img align="center" alt="Icon-Docker" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </a>
+  </a>  
   
   <!-- Icon Grafana -->
   <a href="https://grafana.com/">
     <img align="center" alt="Icon-Grafana" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   </a>
   
+  <!-- Icon AWS -->
+  <a href="https://aws.amazon.com/">
+    <img align="center" alt="Icon-Tailwindcss" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  </a>    
+    
   <!-- Icon Selenium -->
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">

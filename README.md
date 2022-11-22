@@ -51,7 +51,7 @@
     
    <!-- Icon React -->
   <a href="https://reactjs.org/"> 
-     <img align="center" alt="Icon-React" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     <img align="center" alt="Icon-React" width="35" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
     
   <!-- Icon HTML5 

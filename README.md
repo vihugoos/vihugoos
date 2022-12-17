@@ -92,12 +92,12 @@
   <!-- Icon GraphQL-->
   <a href="https://graphql.org/">
     <img align="center" alt="Icon-GraphQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  </a>
+  </a> &nbsp;
     
-  <!-- Icon Selenium -->
+  <!-- Icon Selenium 
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  </a>
+  </a> -->
   
   <!-- Icon Socket.io -->
   <a href="https://socket.io/">

@@ -46,7 +46,7 @@
     
   <!-- Icon Django -->
   <a href="https://www.djangoproject.com/">
-    <img align="center" alt="Icon-Django" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" alt="Icon-Django" width="37" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   </a>
     
    <!-- Icon React -->
@@ -106,7 +106,7 @@
     
   <!-- Icon Jest -->
   <a href="https://jestjs.io/"> 
-    <img align="center" alt="Icon-Jest" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img align="center" alt="Icon-Jest" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
     
   <!-- Icon MySQL -->
@@ -117,7 +117,7 @@
   <!-- Icon Postgresql -->
   <a href="https://www.postgresql.org/"> 
     <img align="center" alt="Icon-Postgresql" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  </a>
+  </a> &nbsp;
 
   <!-- Icon Linux -->
   <a href="https://github.com/torvalds/linux"> 

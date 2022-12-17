@@ -113,10 +113,10 @@
   <a href="https://www.postgresql.org/"> 
     <img align="center" alt="Icon-Jest" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   </a>
-  
+
   <!-- Icon Linux -->
   <a href="https://github.com/torvalds/linux"> 
-    <img align="center" alt="Icon-Jest" width="37" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Icon-Jest" height="35" src="https://user-images.githubusercontent.com/44311634/208247560-a8f73172-e8c5-418c-a0da-f8df63e49db4.png">
   </a>
   &nbsp; 
 </div>

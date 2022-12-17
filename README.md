@@ -86,27 +86,27 @@
     
   <!-- Icon Selenium -->
   <a href="https://www.selenium.dev/">
-    <img align="center" alt="Icon-Selenium" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+    <img align="center" alt="Icon-Selenium" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   </a>
-   
+  
   <!-- Icon GraphQL-->
   <a href="https://graphql.org/">
     <img align="center" alt="Icon-GraphQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   </a>
-  
+    
   <!-- Icon Jest -->
   <a href="https://jestjs.io/"> 
     <img align="center" alt="Icon-Jest" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   </a>
-  
-  <!-- Icon Prisma -->
-  <a href="https://www.prisma.io/">
-    <img align="center" alt="Icon-Prisma" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
+    
+  <!-- Icon Socket.io -->
+  <a href="https://socket.io/">
+    <img align="center" alt="Icon-Socket.io" height="35" src="https://user-images.githubusercontent.com/44311634/208249972-8c2c2640-24a5-4b13-b84d-09532f461dcb.png">
   </a>
     
   <!-- Icon MySQL -->
   <a href="https://www.mysql.com/">
-    <img align="center" alt="Icon-MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Icon-MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
     
   <!-- Icon Postgresql -->
@@ -118,5 +118,4 @@
   <a href="https://github.com/torvalds/linux"> 
     <img align="center" alt="Icon-Jest" height="35" src="https://user-images.githubusercontent.com/44311634/208247560-a8f73172-e8c5-418c-a0da-f8df63e49db4.png">
   </a>
-  &nbsp; 
 </div>

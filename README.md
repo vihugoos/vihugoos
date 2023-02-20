@@ -39,7 +39,7 @@
     <img align="center" alt="Icon-Typescript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <a/>
     
-  <!-- Icon Nodejs-->
+  <!-- Icon Nodejs -->
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Icon-Nodejs" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
@@ -89,15 +89,15 @@
     <img align="center" alt="Icon-Serverless" height="30" src="https://user-images.githubusercontent.com/44311634/208251603-52add6e2-a6a0-4928-a1ce-a07ba1b786b0.png">
   </a>  &nbsp;
   
-  <!-- Icon GraphQL-->
+  <!-- Icon GraphQL -->
   <a href="https://graphql.org/">
     <img align="center" alt="Icon-GraphQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  </a> &nbsp;
+  </a> 
     
-  <!-- Icon Selenium 
+  <!-- Icon Selenium --> 
   <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  </a> -->
+  </a> 
   
   <!-- Icon Socket.io -->
   <a href="https://socket.io/">

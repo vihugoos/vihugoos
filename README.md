@@ -1,17 +1,17 @@
 ## Hey, Guys! :no_good:
 
-- <strong> I'm a developer and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
+<strong> I'm a developer and <i> passionate </i> about technology. I love to be constantly learning new things, it captivates me, encourages me to always seek to explore more and more this wonderful world of technology. </strong> 
 
-## 
+<!-- ## -->
 
-<!-- Stats of profile -->
+<!-- Stats of profile 
 <div align="center">
   <a href="https://github.com/vihugoos">
     <img height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=vihugoos&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     &nbsp;
     <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihugoos&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
-</div> 
+</div> -->
 
 
 <!-- ## 🛠 Tech Stack Skills -->

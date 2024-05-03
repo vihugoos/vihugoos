@@ -14,45 +14,45 @@
 </div>
 
 
-## 🛠 Tech Stack Skills
+<!-- ## 🛠 Tech Stack Skills -->
  
 <!-- Tech Stack Experience's --> 
-<div style="display: inline_block">
+<!-- <div style="display: inline_block"> -->
   
   <!-- Icon Git -->
-  <a href="https://git-scm.com/" target="_blank"> 
+  <!-- <a href="https://git-scm.com/" target="_blank"> 
     <img align="center" alt="Icon-Git" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
-  </a>
+  </a> -->
   
   <!-- Icon Python --> 
-  <a href="https://www.python.org/"> 
+  <!-- <a href="https://www.python.org/"> 
     <img align="center" alt="Icon-Python" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  </a>
+  </a> -->
   
   <!-- Icon Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img align="center" alt="Icon-Javascript" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
+  </a> -->
   
   <!-- Icon Typescript -->
-  <a href="https://www.typescriptlang.org/">
+  <!-- <a href="https://www.typescriptlang.org/">
     <img align="center" alt="Icon-Typescript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <a/>
+  <a/> -->
     
   <!-- Icon Nodejs -->
-  <a href="https://nodejs.org/en/">
+  <!-- <a href="https://nodejs.org/en/">
     <img align="center" alt="Icon-Nodejs" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </a>
+  </a> -->
     
   <!-- Icon Django -->
-  <a href="https://www.djangoproject.com/">
+  <!-- <a href="https://www.djangoproject.com/">
     <img align="center" alt="Icon-Django" width="37" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  </a>
+  </a> -->
     
-   <!-- Icon React -->
-  <a href="https://reactjs.org/"> 
+  <!-- Icon React -->
+  <!-- <a href="https://reactjs.org/"> 
      <img align="center" alt="Icon-React" width="35" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </a>
+  </a> -->
     
   <!-- Icon HTML5 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -69,58 +69,58 @@
     <img align="center" alt="Icon-Bootstrap" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   </a> -->
   
-   <!-- Icon Docker -->
-  <a href="https://www.docker.com/">
+  <!-- Icon Docker -->
+  <!--<a href="https://www.docker.com/">
     <img align="center" alt="Icon-Docker" height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </a>
+  </a> -->
   
   <!-- Icon Grafana -->
-  <a href="https://grafana.com/">
+  <!-- <a href="https://grafana.com/">
     <img align="center" alt="Icon-Grafana" width="45" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-  </a>
+  </a> -->
   
   <!-- Icon AWS -->
-  <a href="https://aws.amazon.com/">
+  <!-- <a href="https://aws.amazon.com/">
     <img align="center" alt="Icon-AWS" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  </a> &nbsp;
+  </a> &nbsp; ->
     
   <!-- Icon Serverless -->
-  <a href="https://www.serverless.com/">
+  <!-- <a href="https://www.serverless.com/">
     <img align="center" alt="Icon-Serverless" height="30" src="https://user-images.githubusercontent.com/44311634/208251603-52add6e2-a6a0-4928-a1ce-a07ba1b786b0.png">
-  </a>  &nbsp;
+  </a>  &nbsp; -->
   
   <!-- Icon GraphQL -->
-  <a href="https://graphql.org/">
+  <!-- <a href="https://graphql.org/">
     <img align="center" alt="Icon-GraphQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  </a> 
+  </a> -->
     
   <!-- Icon Selenium --> 
-  <a href="https://www.selenium.dev/">
+  <!-- <a href="https://www.selenium.dev/">
     <img align="center" alt="Icon-Selenium" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  </a> 
+  </a> -->
   
   <!-- Icon Socket.io -->
-  <a href="https://socket.io/">
+  <!-- <a href="https://socket.io/">
     <img align="center" alt="Icon-Socket.io" height="35" src="https://user-images.githubusercontent.com/44311634/208249972-8c2c2640-24a5-4b13-b84d-09532f461dcb.png">
-  </a>  
+  </a> --> 
     
   <!-- Icon Jest -->
-  <a href="https://jestjs.io/"> 
+  <!-- <a href="https://jestjs.io/"> 
     <img align="center" alt="Icon-Jest" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  </a>
+  </a> -->
     
   <!-- Icon MySQL -->
-  <a href="https://www.mysql.com/">
+  <!-- <a href="https://www.mysql.com/">
     <img align="center" alt="Icon-MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a>
+  </a> -->
     
   <!-- Icon Postgresql -->
-  <a href="https://www.postgresql.org/"> 
+  <!-- <a href="https://www.postgresql.org/"> 
     <img align="center" alt="Icon-Postgresql" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  </a> &nbsp;
+  </a> &nbsp; -->
 
   <!-- Icon Linux -->
-  <a href="https://github.com/torvalds/linux"> 
+  <!-- <a href="https://github.com/torvalds/linux"> 
     <img align="center" alt="Icon-Linux" height="35" src="https://user-images.githubusercontent.com/44311634/208247560-a8f73172-e8c5-418c-a0da-f8df63e49db4.png">
-  </a>
-</div>
+  </a> -->
+<!-- </div> -->
